@@ -1,5 +1,5 @@
 title: Jingyi Cui
 logo: /assets/image/profile.png
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-al-folio
+show_downloads: false
+theme: jekyll-theme-minimal
