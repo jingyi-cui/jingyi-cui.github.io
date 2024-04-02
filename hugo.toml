@@ -1,0 +1,30 @@
+baseURL = "https://example.com"
+title = "Jingyi Cui"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "Welcome"
+  copyright = "Copyright © 2024 Jingyi Cui"
+  dark = "auto"
+  highlight = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
+
