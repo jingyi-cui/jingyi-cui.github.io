@@ -15,10 +15,10 @@ pygmentsUseClasses = true
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
+    identifier = "aboutme"
+    name = "aboutme"
+    title = "aboutme"
+    url = "/aboutme/"
     weight = 20
 
 [permalinks]
