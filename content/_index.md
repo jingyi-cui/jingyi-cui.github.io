@@ -14,7 +14,7 @@ My name is pronounced jing-ee ts-way
 
 * Bidding for Reputation in Online Labor Markets
 
-* The Double Edges of Reducing Job Application Costs 
+* The Double Edges of Reducing Job Application Costs *with Gabriel Dias and Justin Ye*
 
 * The Global Market for White-Collar Jobs *with Samuel Solomon*
 
