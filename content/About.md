@@ -1,12 +1,6 @@
-+++
+### Research Fields
 
-title = 'About Me'
-
-+++
-
-### Fields
-
-Industrial Organization, Labor Economics, International Economics
+Industrial Organization, Labor Economics
 
 ### Education 
 
