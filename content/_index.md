@@ -6,6 +6,8 @@
 
 Welcome! I’m a fourth-year Economics PhD candidate at Yale University. I study information frictions in digital labor markets. In addition, I'm interested in the globalization of labor markets through remote work. 
 
+My CV is available [here](/resume.pdf)
+
 Email me at jingyi [dot] cui [at] yale [dot] edu
 
 My name is pronounced jing-ee ts-way
