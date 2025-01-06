@@ -12,7 +12,7 @@ My name is pronounced jing-ee ts-way.
 
 ### Working Papers
 
-* [The Global Market for White-Collar Jobs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4942498) *with [Samuel Solomon](https://www.samuelmsolomon.com/)*
+* [The Global Market for White-Collar Jobs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4942498) *with [Samuel Solomon](https://www.samuelmsolomon.com/)* [paper](/CuiSolomonWhiteCollarGlobalization)/[ssrn (older draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4942498)
 
 
 ### Work in Progress
