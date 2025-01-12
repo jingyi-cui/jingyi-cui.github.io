@@ -11,6 +11,7 @@ pygmentsUseClasses = true
   copyright = "Copyright © 2024 Jingyi Cui"
   dark = "auto"
   highlight = true
+  googleAnalytics = "G-Z00HHYD0LZ"
 
 [menu]
 
