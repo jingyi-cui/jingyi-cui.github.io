@@ -4,7 +4,9 @@
 </figure>
 
 
-Welcome! I’m a fifth-year Economics PhD candidate at Yale University. I study asymmetric information in digital labor markets. In addition, I'm interested in the globalization of labor markets through remote work. 
+Welcome! I’m a 5th-year Economics PhD candidate at Yale University. 
+
+My main field of interest is industrial organization, with a focus on the design of online labor markets. 
 
 My CV is available [here](/resume.pdf). 
 
@@ -17,9 +19,9 @@ My name is pronounced jing-ee ts-way.
 
 ### Work in Progress
 
-* Bidding for Reputations in Digital Labor Markets
+* Bidding for Reputation in Online Labor Markets
 
-* The Double Edges of Reducing Job Application Costs *with Gabriel Dias and Justin Ye*
+* Artificial Intelligence and Labor Market Signaling *with Gabriel Dias and Justin Ye*
 
 
 
