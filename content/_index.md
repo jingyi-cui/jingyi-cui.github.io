@@ -6,7 +6,7 @@
 
 Welcome! I’m a 5th-year Economics PhD candidate at Yale University. 
 
-My main field of interest is industrial organization, with a focus on the design of online labor markets. 
+My main field of interest is industrial organization, with a focus on online labor markets. 
 
 My CV is available [here](/resume.pdf). 
 
