@@ -4,11 +4,11 @@
 </figure>
 
 
-Welcome! I’m a 5th-year Economics PhD candidate at Yale University. 
+Welcome! I’m a rising 6th-year Economics PhD candidate at Yale University. 
 
 My main field of interest is industrial organization, with a focus on online labor markets. 
 
-My CV is available [here](/resume.pdf). 
+My CV is available [here](/Jingyi_Cui_CV_202506.pdf). 
 
 My name is pronounced jing-ee ts-way.
 
