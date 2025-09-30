@@ -20,7 +20,7 @@ pygmentsUseClasses = true
     name = "CV"
     title = "CV"
     url = "/CV/"
-    weight = 20
+    weight = 30
 
 [permalinks]
   posts = "/:title/"
