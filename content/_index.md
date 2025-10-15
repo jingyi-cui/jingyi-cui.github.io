@@ -4,7 +4,7 @@
 </figure>
 
 
-Welcome! I’m a 6th-year Economics PhD candidate at Yale University. I'm on the 2025-2026 job market.
+Welcome! I’m a 6th-year Economics PhD candidate at Yale University. I'm on the 2025-2026 job market. I can be reached at jingyi.cui@yale.edu.
 
 My research fields are industrial organization and labor economics. 
 
