@@ -23,7 +23,7 @@ My name is pronounced jing-ee ts-way.
 
 ### Work in Progress
 
-* Bidding for Reputation: Evidence from Online Labor Platforms (JMP)
+* Bidding for Reputation (JMP)
 
 
 
