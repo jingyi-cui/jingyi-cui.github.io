@@ -1,0 +1,31 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+
+  {{ if .Params.robots }}
+    <meta name="robots" content="{{ .Params.robots }}">
+  {{ end }}
+
+  {{ with .Site.Params.description }}
+    <meta name="description" content="{{ . }}">
+  {{ end }}
+
+  <link rel="icon" href="{{ "favicon.ico" | absURL }}">
+  
+  {{ with .OutputFormats.Get "rss" }}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}">
+  {{ end }}
+
+  {{ $resources := slice }}
+  {{ $resources = $resources | append (resources.Get "css/main.css") }}
+  {{ $resources = $resources | append (resources.Get "css/min770px.css") }}
+  {{ $dark := .Site.Params.dark | default "auto" }}
+  {{ if not (eq $dark "off") }}
+    {{ $resources = $resources | append (resources.Get "css/dark.css" | resources.ExecuteAsTemplate "dark.css" .) }}
+  {{ end }}
+  {{ if .Site.Params.highlight }}
+    {{ $resources = $resources | append (resources.Get "css/syntax.css") }}
+  {{ end }}
+  {{ $css := $resources | resources.Concat "css/style.css" | minify }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
