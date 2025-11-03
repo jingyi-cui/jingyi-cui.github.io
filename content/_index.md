@@ -8,7 +8,7 @@ Welcome! I’m an Economics PhD candidate at Yale University. I'm on the 2025-20
 
 I'm an empirical industrial organization economist with broad interests. My research so far has focused on labor markets.
 
-My CV is available [here](/Jingyi_Cui_CV_202506.pdf). 
+My CV is available [here](/Cui_Jingyi_CV.pdf). 
 
 My name is pronounced jing-ee ts-way.
 
