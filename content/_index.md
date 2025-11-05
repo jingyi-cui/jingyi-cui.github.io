@@ -14,7 +14,7 @@ My name is pronounced jing-ee ts-way.
 
 ### Working Papers
 
-* Bidding for Reputation (Job Market Paper) [[link]](/Cui_JMP.pdf) 
+* Bidding for Reputation (**Job Market Paper**) [[link]](/Cui_JMP.pdf) 
 
 * Signaling in the Age of AI: Evidence from Cover Letters [[link]](/Signaling_AI_Cui_Dias_Ye.pdf) [[arxiv]](https://arxiv.org/abs/2509.25054)
 > Co-authors: [Gabriel Dias](https://economics.yale.edu/people/gabriel-dias-santamarina), [Justin Ye](https://economics.yale.edu/people/justin-ye)  
