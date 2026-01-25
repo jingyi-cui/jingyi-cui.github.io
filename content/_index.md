@@ -18,7 +18,7 @@ My name is pronounced jing-ee ts-way.
 
 * Signaling in the Age of AI: Evidence from Cover Letters [[link]](/Signaling_AI_Cui_Dias_Ye.pdf) [[arxiv]](https://arxiv.org/abs/2509.25054)
 > Co-authors: [Gabriel Dias](https://economics.yale.edu/people/gabriel-dias-santamarina), [Justin Ye](https://economics.yale.edu/people/justin-ye)  
-> [Revise and Resubmit]: **Journal of Labor Economics**
+> Revise and Resubmit: **Journal of Labor Economics**
 
 * The Global Market for White-Collar Jobs [[link]](/CuiSolomonWhiteCollarGlobalization.pdf) [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4942498)
 > Co-author: [Samuel Solomon](https://www.samuelmsolomon.com/)
