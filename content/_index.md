@@ -4,13 +4,15 @@
 </figure>
 
 
-Welcome! I’m an Economics PhD candidate at Yale University. I'm on the 2025-2026 job market. I can be reached at jingyi.cui@yale.edu.
+Welcome! I’m an Economics PhD candidate at Yale University. 
 
 I'm an empirical industrial organization economist with broad interests. My research so far has focused on labor markets.
 
-My CV is available [here](/Cui_Jingyi_CV.pdf). 
+I will join Carnegie Mellon University Tepper School of Business as an Assistant Professor of Economics in 2027, following a postdoctoral fellowship at UC Berkeley (2026-2027).
 
-My name is pronounced jing-ee ts-way.
+My CV is available [here](/Cui_Jingyi_CV.pdf). My name is pronounced jing-ee ts-way.
+
+Email: jingyi.cui@yale.edu. 
 
 ### Working Papers
 
