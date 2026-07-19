@@ -4,15 +4,13 @@
 </figure>
 
 
-Welcome! I’m an Economics PhD candidate at Yale University. 
+Welcome! I’m a Postdoctoral Scholar at UC Berkeley (2026-27). I will join Carnegie Mellon University Tepper School of Business as an Assistant Professor of Economics in 2027.  
 
-I'm an empirical industrial organization economist with broad interests. My research so far has focused on labor markets.
+I'm an empirical industrial organization economist with broad interests, including economics of information and digital labor markets. I received my PhD and BA from Yale University.  
 
-I will join Carnegie Mellon University Tepper School of Business as an Assistant Professor of Economics in 2027, following a postdoctoral fellowship at UC Berkeley (2026-2027).
+[CV](/Cui_Jingyi_CV.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4wWNenRcAyyHD3FBnlyJG2q959WIWRsANvaoRLFHu43KGfw-Pkai7NhFcdjRaSxYUvFlW6jTocWfLsNr66TfCIe&user=AbhfixEAAAAJ)
 
-My CV is available [here](/Cui_Jingyi_CV.pdf). My name is pronounced jing-ee ts-way.
-
-Email: jingyi.cui@yale.edu. 
+My name is pronounced jing-ee ts-way. Email: jingyi.cui@yale.edu. 
 
 ### Working Papers
 
