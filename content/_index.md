@@ -10,7 +10,7 @@ I'm an empirical industrial organization economist with broad interests, includi
 
 [CV](/Cui_Jingyi_CV.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4wWNenRcAyyHD3FBnlyJG2q959WIWRsANvaoRLFHu43KGfw-Pkai7NhFcdjRaSxYUvFlW6jTocWfLsNr66TfCIe&user=AbhfixEAAAAJ)
 
-My name is pronounced jing-ee ts-way. Email: jingyi.cui@yale.edu. 
+My name is pronounced jing-ee ts-way. Email: jingyi.cui@berkeley.edu. 
 
 ### Working Papers
 
