@@ -6,7 +6,7 @@
 
 Welcome! I’m a Postdoctoral Scholar at UC Berkeley (2026-27). I will join Carnegie Mellon University Tepper School of Business as an Assistant Professor of Economics in 2027.  
 
-I'm an empirical industrial organization economist with broad interests, including economics of information and digital labor markets. I received my PhD and BA from Yale University.  
+I'm an empirical industrial organization economist with broad interests. My research has focused on modern labor markets. I received my PhD and BA from Yale University.  
 
 [CV](/Cui_Jingyi_CV.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4wWNenRcAyyHD3FBnlyJG2q959WIWRsANvaoRLFHu43KGfw-Pkai7NhFcdjRaSxYUvFlW6jTocWfLsNr66TfCIe&user=AbhfixEAAAAJ)
 
